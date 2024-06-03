@@ -1,0 +1,9 @@
+# =========== FrontendSettings =================>
+client-app/.env
+client-app/node_modules
+client-app/package-lock.json
+
+# =========== Backend Settings =================>
+server-app/.env
+server-app/node_modules
+server-app/package-lock.json
